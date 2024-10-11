@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I don't have experience as a junior developer yet, but I'm still learning and trying to create as many projects as possible. I like to create responsive and beautiful websites using modern JavaScript, in which I try to improve my skills and knowledge in this area. I like new challenges and am looking for opportunities in a company where I can develop and learn as a front-end developer, and where I can use my knowledge in real projects.</h3>
+<h3 align="center">I'm a passionate frontend developer with experience in building responsive, user-friendly web applications. I love working with modern technologies like React, TypeScript, and Next.js, and I’m always excited to explore new tools and frameworks. When I'm not coding, I’m usually learning something new to improve my skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
